@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.section-one {
+    background: url('Assets/bg.svg') no-repeat;
+}
+#logo {
+    padding-top: 69px;
+    margin-bottom: 69px;
+    text-align: center;
+}
